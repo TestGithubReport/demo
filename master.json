@@ -1,0 +1,6 @@
+[
+{"id":"1","description":"Account Report 1","product 1":"Product1","reportType":"Customer Report 1","isCustomizable":"N","templateName":"Test Customer Report 1","exportOptions":"PDF","status":"O","uesrId":"ADMIN","dateCreated":"2018-05-15 15:57:04","dateModified":"2018-05-15 15:57:04"},
+{"id":"2","description":"Account Report 2","product 2":"Product2","reportType":"Customer Report 2","isCustomizable":"N","templateName":"Test Customer Report 2","exportOptions":"PDF","status":"O","uesrId":"ADMIN","dateCreated":"2018-05-15 15:57:04","dateModified":"2018-05-15 15:57:04"},
+{"id":"3","description":"Account Report 3","product 3":"Product3","reportType":"Customer Report 3","isCustomizable":"Y","templateName":"Test Customer Report 3","exportOptions":"PDF","status":"O","uesrId":"ADMIN","dateCreated":"2018-05-15 15:57:04","dateModified":"2018-05-15 15:57:04"},
+{"id":"4","description":"Account Report 4","product 4":"Product4","reportType":"Customer Report 4","isCustomizable":"N","templateName":"Test Customer Report 4","exportOptions":"PDF","status":"O","uesrId":"ADMIN","dateCreated":"2018-05-15 15:57:04","dateModified":"2018-05-15 15:57:04"}
+]
